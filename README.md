@@ -1,7 +1,4 @@
-![Screenshot_1733163436](https://github.com/user-attachments/assets/ff86ad03-c370-452e-aab3-37aec7023913)# fuelapp
-
 Fuel Cost Splitter is a simple and efficient Flutter mobile app that helps you calculate and split fuel costs for any trip. The app automatically calculates the distance between your current location and destination using Google Maps. You just need to enter the fuel efficiency, fuel price, and the number of passengers. The app will then calculate the total fuel cost for the trip and split it equally among all passengers. Perfect for road trips, carpooling, or sharing travel expenses...
-![Screenshot_1733163463](https://github.com/user-attachments/assets/ffdf4720-27b4-4787-b175-c46e88398715)
 
 
 
